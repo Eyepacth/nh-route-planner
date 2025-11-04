@@ -1,16 +1,15 @@
---> 🛣️ Enhanced National Highway Route Planner
+# 🛣️ Enhanced National Highway Route Planner
 
--->  👨‍💻 Author
-        Ashara Ashish  
-        Information Technology Department  
-        Marwadi University  
-        Course: Programming With Python(01AI0302)
+### 👨‍💻 Author
+**Ashara Ashish**  
+Information Technology Department  
+L. E. College, Morbi  
+Course: *Cloud and Data Center Technologies (4361602)*
 
 ---
 
---> 🚀 Project Overview
-
-  The **Enhanced National Highway Route Planner** is a Python-based desktop application that helps users find the **shortest route** between two Indian cities using **Dijkstra’s Algorithm**.  
+## 🚀 Project Overview
+The **Enhanced National Highway Route Planner** is a Python-based desktop application that helps users find the **shortest route** between two Indian cities using **Dijkstra’s Algorithm**.  
 It estimates the **total distance**, **travel time**, and suggests a **departure time** to ensure the traveler arrives before **6 PM (daylight arrival)**.
 
 This project demonstrates key Python concepts including:
