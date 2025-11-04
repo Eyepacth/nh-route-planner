@@ -1,0 +1,15 @@
+
+---
+
+## 📦 **requirements.txt**
+```text
+# Python dependencies for the Enhanced National Highway Route Planner
+
+# --- Standard libraries (already included with Python) ---
+# sqlite3       # for database operations
+# datetime      # for time calculations
+# tkinter       # for GUI interface
+
+# --- Optional libraries (if added later) ---
+# heapq         # for optimized Dijkstra
+# reportlab     # for exporting routes to PDF (future use)
