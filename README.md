@@ -3,8 +3,8 @@
 ### 👨‍💻 Author
 **Ashara Ashish**  
 Information Technology Department  
-L. E. College, Morbi  
-Course: *Cloud and Data Center Technologies (4361602)*
+Marwadi University, Rajkot  
+Course: *PROGRAMMING WITH PYTHON(01AI0302)*
 
 ---
 
